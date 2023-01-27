@@ -4,7 +4,7 @@ import TheWelcome from './components/TheWelcome.vue'
 </script>
 
 <template>
-  <header>
+  <header class="header">
     <span class="logo">PHYSIOHABITS</span> 
 
     <div class="wrapper">
@@ -25,18 +25,20 @@ header {
 .logo {
   display: block;
   margin: 0 auto 2rem;
+  text-align:center;
 }
-
+  header {
+    align-items:center;
+  }
 @media (min-width: 1024px) {
   header {
     display: flex;
+    flex-direction: column;    
     place-items: center;
     padding-right: calc(var(--section-gap) / 2);
   }
 
-  .logo {
-    margin: 0 2rem 0 0;
-  }
+
 
   header .wrapper {
     display: flex;
