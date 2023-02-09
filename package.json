@@ -2,7 +2,7 @@
   "name": "vue-project",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://laine-k.github.io/physiohabits",
+  "homepage": "http://physiohabits.com",
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check build-only",
