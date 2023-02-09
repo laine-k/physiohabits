@@ -6,9 +6,9 @@ defineProps<{
 
 <template>
   <div class="greetings">
-    <h1>Up to 70% quit their home exercise program given by physio</h1>
+    <h1>Up to 70% quit their home exercises given by physio</h1>
     <h3>
-    Gathering ideas and research to help people to stick to their exercise plans
+    Physiobabits is here to assist with healthy habit building through ideas and research
     </h3>
   </div>
 </template>
@@ -35,7 +35,7 @@ padding: 2em;
 }
 @media (min-width: 1024px) {
   .greetings {
-  padding: 6em;
+  padding: 3em;
   }
 }
 

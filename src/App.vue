@@ -15,6 +15,9 @@ import TheWelcome from './components/TheWelcome.vue'
   <main>
     <TheWelcome />
   </main>
+    <footer>
+©2023, Physiobabits
+</footer>
 </template>
 
 <style scoped>

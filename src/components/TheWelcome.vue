@@ -12,13 +12,14 @@ import SupportIcon from './icons/IconSupport.vue'
     <template #icon>
       <DocumentationIcon />
     </template>
-    <template #heading>Reasearch</template>
-      Non-adherence to home exercise has been shown to be as high as 50-70% (<a href="https://www.sciencedirect.com/science/article/pii/S1529943013014745?casa_token=3913WKQJ0c8AAAAA:6d9FpoBmL6wA7KMUnvoP1kRorA7X3Yaa4JbHPCaShJo4fD9_nT6q6dUWa_MzRuZcmDbMf-wh" target="_blank" rel="noopener">Low back pain</a> +
-      <a href="https://www.academia.edu/download/55865376/Bassett2003.pdf" target="_blank" rel="noopener">Muskolosceletal conditions</a>).
+    <template #heading>Research</template> Physiohabits will occasionally post the latest research findings from the fields of physiotherapy, behaviour science and psychology.
+    <br>
+       • <i>Non-adherence to home exercise has been shown to be as high as 50-70% (<a href="https://www.sciencedirect.com/science/article/pii/S1529943013014745?casa_token=3913WKQJ0c8AAAAA:6d9FpoBmL6wA7KMUnvoP1kRorA7X3Yaa4JbHPCaShJo4fD9_nT6q6dUWa_MzRuZcmDbMf-wh" target="_blank" rel="noopener">Low back pain</a> +
+      <a href="https://www.academia.edu/download/55865376/Bassett2003.pdf" target="_blank" rel="noopener">Muskolosceletal conditions</a>).</i>
 
 
   </WelcomeItem>
-
+<!--
   <WelcomeItem>
     <template #icon>
       <ToolingIcon />
@@ -53,7 +54,7 @@ import SupportIcon from './icons/IconSupport.vue'
     you need more resources, we suggest paying
     <a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">Awesome Vue</a>
     a visit.
-  </WelcomeItem>
+  </WelcomeItem> -->
 
   <WelcomeItem>
     <template #icon>
@@ -61,26 +62,21 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Community</template>
 
-    Got stuck? Ask your question on
-    <a href="https://chat.vuejs.org" target="_blank" rel="noopener">Vue Land</a>, our official
-    Discord server, or
-    <a href="https://stackoverflow.com/questions/tagged/vue.js" target="_blank" rel="noopener"
-      >StackOverflow</a
-    >. You should also subscribe to
-    <a href="https://news.vuejs.org" target="_blank" rel="noopener">our mailing list</a> and follow
-    the official
-    <a href="https://twitter.com/vuejs" target="_blank" rel="noopener">@vuejs</a>
-    twitter account for latest news in the Vue world.
+    Are you a health practicioner or a patient? <br>
+    Do you have a method or idea that worked for you to stick with the exercise plan? Would you like to share your story and help others?
+    <br> Contact us at info@physiohabits.com
   </WelcomeItem>
 
   <WelcomeItem>
     <template #icon>
       <SupportIcon />
     </template>
-    <template #heading>Support Vue</template>
+    <template #heading>Support Physiohabits</template>
 
-    As an independent project, Vue relies on community backing for its sustainability. You can help
+    As an independent project, Physiohabits relies on community backing for its sustainability.<!-- You can help
     us by
-    <a href="https://vuejs.org/sponsor/" target="_blank" rel="noopener">becoming a sponsor</a>.
+    <a href="https://vuejs.org/sponsor/" target="_blank" rel="noopener">becoming a sponsor</a>.-->
   </WelcomeItem>
+
 </template>
+

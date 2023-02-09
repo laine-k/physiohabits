@@ -27,9 +27,19 @@ a,
 
   #app {
     display: grid;
+    min-height: 100vh;
+    position: relative;
     grid-template-columns: auto auto;
     padding: 0 2rem;
     grid-template-areas: 'gridArea gridArea';
   }
 
+}
+footer {
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  bottom: 1em;
+  font-size: 12px;
+ 
 }
