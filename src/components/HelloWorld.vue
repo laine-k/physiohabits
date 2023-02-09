@@ -1,9 +1,3 @@
-<script setup lang="ts">
-defineProps<{
-  msg: string
-}>()
-</script>
-
 <template>
   <div class="greetings">
     <h1>Up to 70% quit their home exercises given by physio</h1>
