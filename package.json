@@ -2,12 +2,13 @@
   "name": "vue-project",
   "version": "0.0.0",
   "private": true,
-  "homepage": "http://physiohabits.com",
+  "homepage": "https://laine-k.github.io/physiohabits/",
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check build-only",
     "preview": "vite preview",
     "build-only": "vite build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "type-check": "vue-tsc --noEmit"
   },
