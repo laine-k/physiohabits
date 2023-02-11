@@ -9,14 +9,7 @@ import ViteRadar from 'vite-plugin-radar'
 export default defineConfig({
   plugins: [
     vue(), 
-    vueJsx(),
-    ViteRadar({
-           gtm: [
-            {
-              id: 'GTM-54HN2L2',
-            }
-          ]
-    })
+    vueJsx()
   ],
   resolve: {
     alias: {
