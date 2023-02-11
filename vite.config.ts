@@ -15,7 +15,7 @@ export default defineConfig({
             {
               id: 'GTM-54HN2L2',
             }
-          ],
+          ]
     })
   ],
   resolve: {
