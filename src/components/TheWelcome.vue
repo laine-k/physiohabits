@@ -15,7 +15,7 @@ import SupportIcon from './icons/IconSupport.vue'
     <template #heading>Research</template> Physiohabits will occasionally post the latest research findings from the fields of physiotherapy, behaviour science and psychology.
     <br>
        • <i>Non-adherence to home exercise has been shown to be as high as 50-70% (<a href="https://www.sciencedirect.com/science/article/pii/S1529943013014745?casa_token=3913WKQJ0c8AAAAA:6d9FpoBmL6wA7KMUnvoP1kRorA7X3Yaa4JbHPCaShJo4fD9_nT6q6dUWa_MzRuZcmDbMf-wh" target="_blank" rel="noopener">Low back pain</a> +
-      <a href="https://www.academia.edu/download/55865376/Bassett2003.pdf" target="_blank" rel="noopener">Muskolosceletal conditions</a>).</i>
+      <a href="https://www.researchgate.net/publication/284411604_The_assessment_of_patient_adherence_to_physiotherapy_rehabilitation" target="_blank" rel="noopener">Muskolosceletal conditions</a>).</i>
 
 
   </WelcomeItem>
