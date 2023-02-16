@@ -64,7 +64,7 @@ import SupportIcon from './icons/IconSupport.vue'
 
     Are you a health practicioner or a patient? <br>
     Do you have a method or idea that worked for you to stick with the exercise plan? Would you like to share your story and help others?
-    <br> Contact us at info@physiohabits.com
+    <br> Get in touch <a href="https://www.instagram.com/physio_habits/" target="_blank">@physio_habits</a>
   </WelcomeItem>
 
   <WelcomeItem>
